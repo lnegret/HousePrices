@@ -1,0 +1,1 @@
+Within the "train" dataset, there are records of houses. A linear regression model has been developed to predict the value of houses found in the "test" file. Predictions related to the house values are associated with "Id" and "SalePrice". The "workspace" file is used for data analysis and model creation.
